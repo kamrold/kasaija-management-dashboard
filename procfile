@@ -1,1 +1,1 @@
-web: vendor/bin/heroku--git web
+web: node index.js
